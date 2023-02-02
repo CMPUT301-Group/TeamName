@@ -3,6 +3,7 @@ package com.example.theboys;
 public abstract class Shape {
     int x;
     int y;
-    String color = "blue";
+    String color1 = "blue";    
+    String color = "pink";
 
 }
